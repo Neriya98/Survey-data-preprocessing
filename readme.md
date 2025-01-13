@@ -1,3 +1,5 @@
+Mission effectuée dans le cadre d'une enquete. L'objectif était de nettoyer et de concater deux bases de données complexes pour en faire une seule, propre et bien structurée.
+
 # 1. Méthodologie
 
 Nous avons utilisé la bibliothèque pandas de Python pour automatiser le processus d'intégration. Deux ensembles de données ont été utilisés : l'un contenant les réponses structurées des enquêtes et l'autre contenant les transcriptions correspondantes d'entretiens approfondis. Notre méthode comprend trois étapes principales :
